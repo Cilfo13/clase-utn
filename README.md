@@ -2,9 +2,14 @@
 
 ## Semana del 28-3 al 1-4
 
+### 29-3-2022
+* [Fisica (teoria)](https://youtu.be/PerSZ6mUvYg)
+* [Algebra y geometria analitica (teoria)](https://youtu.be/kLWmnRm4hxg)
+* [Algoritmos y estructuras de datos (teoria)](https://youtu.be/9hDk63AH_6I)
+
 ### 28-3-2022
 * Ing y sociedad (no hubo clases, se paso para la semana que viene)
-* AMI (teoria) -> Todavia no subida
+* [AMI (teoria)](https://youtu.be/5hUb1mA7nFk)
 * [Arquitectura de computadoras (practica)](https://youtu.be/62lWCjIj62o)
 
 ## Semana del 21-3 al 25-3

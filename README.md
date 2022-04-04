@@ -1,6 +1,16 @@
 # Clases grabadas UTN comisión 114
 
+## Semana del 4-4 al 9-4
+
 ## Semana del 28-3 al 1-4
+
+### 1-4-2022 Viernes
+* [Analisis matematico (practica)](https://youtu.be/sg5fdCDBL0g)
+* Sistemas y organizaciones -> No hubo clases
+
+### 31-3-2022 Jueves
+* [Matematica discreta](https://youtu.be/JMrEgpzEtWg)
+* [Algoritmos y estructuras de datos (practica)](https://youtu.be/op0QlxUjwvw)
 
 ### 30-3-2022 Miercoles
 * [Algebra y geometria analitica (practica)](https://youtu.be/UyM4yWPXn2w)

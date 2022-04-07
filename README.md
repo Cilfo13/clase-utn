@@ -2,6 +2,21 @@
 
 ## Semana del 4-4 al 9-4
 
+### 6-4-2022 Miercoles
+* [Algebra y geometria analitica (practica)](https://youtu.be/uKIlx7zWOOg)
+* [Arquitectura de computadoras (teoria)](https://youtu.be/6-aBeyr2Y9M)
+* [Fisica (practica)](https://youtu.be/N0svQS0dAG0)
+
+### 5-4-2022 Martes
+* [Fisica (teoria)](https://youtu.be/SpYUpuvgPYw)
+* [Algebra y geometria analitica (teoria)](https://youtu.be/AEA_SoJPCkw)
+* [Algoritmos y estructuras de datos (teoria)](https://youtu.be/JorBQsJ9nX4)
+
+### 4-4-2022 Lunes
+* Ing y sociedad (no hubo clases)
+* [AMI (teoria)](https://youtu.be/tVBzmlJNFy4)
+* [Arquitectura de computadoras (practica)](https://youtu.be/bM80Gx_qX70)
+
 ## Semana del 28-3 al 1-4
 
 ### 1-4-2022 Viernes

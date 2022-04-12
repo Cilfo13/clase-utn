@@ -1,5 +1,12 @@
 # Clases grabadas UTN comisión 114
 
+## Semana del 11-4 al 15-4
+
+### 11-4-2022 Lunes
+* [Ing y sociedad] (https://youtu.be/VeQ9lCvGQNg)
+* [AMI (teoria)](https://youtu.be/WeDltMZilac)
+* [Arquitectura de computadoras (practica)](https://youtu.be/f_O1X_mAjXM)
+
 ## Semana del 4-4 al 8-4
 
 ### 8-4-2022 Viernes

@@ -1,6 +1,30 @@
 # Clases grabadas UTN comisión 114
 
+## Semana del 18-4 al 22-4
+
+### 22-4-2022 Viernes
+* [Analisis matematico (practica)]
+* [Sistemas y organizaciones]
+
+### 21-4-2022 Jueves
+* [Matematica discreta](https://youtu.be/Azd_4yk_rMc)
+* [Algoritmos y estructuras de datos (practica)](https://youtu.be/pWrqnwan_Yc)
+
+### 20-4-2022 Miercoles
+* [Algebra y geometria analitica (practica)](https://youtu.be/yx_kKgL_qRg)
+* [Arquitectura de computadoras (teoria)](https://youtu.be/KM566osubEs)
+* [Fisica (practica)](https://youtu.be/OoFM7k7NeNc)
+
+### 19-4-2022 Martes -> No hubo clases
+
+### 18-4-2022 Lunes
+* Ing y sociedad (no hubo clases)
+* [AMI (teoria)](https://youtu.be/s-6VnDGb7Y8)
+* [Arquitectura de computadoras (practica)](https://youtu.be/j9ffpJPC2d0)
+
 ## Semana del 11-4 al 15-4
+### 15-4-2022 Viernes -> No hubo clases
+### 14-4-2022 Jueves -> No hubo clases
 ### 13-4-2022 Miercoles
 * Algebra y geometria analitica (practica)->No hubo clases x mesa de examen
 * Arquitectura de computadoras (teoria)->No hubo clases x mesa de examen

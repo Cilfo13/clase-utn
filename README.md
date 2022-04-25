@@ -3,8 +3,8 @@
 ## Semana del 18-4 al 22-4
 
 ### 22-4-2022 Viernes
-* [Analisis matematico (practica)]
-* [Sistemas y organizaciones]
+* [Analisis matematico (practica)](https://youtu.be/UM5RkNjRRbc)
+* [Sistemas y organizaciones](https://youtu.be/UQWwDEcJjq4)
 
 ### 21-4-2022 Jueves
 * [Matematica discreta](https://youtu.be/Azd_4yk_rMc)

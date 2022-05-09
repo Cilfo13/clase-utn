@@ -1,6 +1,37 @@
 # Clases grabadas UTN comisión 114
 
+## Semana del 2-5 al 6-5
+### 6-5-2022 Viernes
+* AMI(practica)-> No grabada
+* Syo -> No hubo clase
+
+### 5-5-2022 Jueves
+* [Matematica discreta](https://youtu.be/XqFMSgquS_0)
+* [Algoritmos y estructuras de datos (practica)](https://youtu.be/FAjRH5g1KKU)
+
+### 4-5-2022 Miercoles
+* Algebra y geometria analitica (practica)-> No grabada
+* [Arquitectura de computadoras (teoria)](https://youtu.be/uJK33Jn_dio)
+* [Fisica (practica)](https://youtu.be/c4FdPyHbVzQ)
+
+### 3-5-2022 Martes
+* [Fisica (teoria)](https://youtu.be/Qkkth3EyQX4)
+* [Algebra y geometria analitica (teoria)](https://youtu.be/txHovKUS1ts)
+* [Algoritmos y estructuras de datos (teoria)](https://youtu.be/3sZcs0onHJA)
+
+### 2-5-2022 Lunes
+* Ing y sociedad (no hubo clases)
+* [AMI (teoria)](https://youtu.be/Mr_bIL-pJNU)
+* [Arquitectura de computadoras (practica)](https://youtu.be/Vsk5_f169QE)
+
 ## Semana del 25-4 al 29-4
+### 29-4-2022 Viernes
+* [AMI(practica)](https://drive.google.com/drive/u/0/folders/1XdOyIr_h7CwfvEAmqp_-MIfnT3PlJL6f)
+* Syo -> No se grabo la clase
+
+### 28-4-2022 Jueves
+* Matematica discreta-> No se grabo la clase
+* [Algoritmos y estructuras de datos (practica)](https://www.mediafire.com/file/kkqliddiche25f7/SeguenzaAyED28-04.mkv/file)
 
 ### 27-4-2022 Miercoles
 * [Algebra y geometria analitica (practica)](https://youtu.be/HoyRJ_NyT5w)

@@ -1,5 +1,27 @@
 # Clases grabadas UTN comisión 114
 
+## Semana del 9-5 al 13-5
+### 13-5-2022 Viernes
+* [AMI(practica)](https://youtu.be/_YTxdvc2ybk)
+* [Syo](https://youtu.be/yMJ5fhd5CO8)
+
+### 12-5-2022 Jueves
+* [Matematica discreta](https://youtu.be/vIan5OI4aBQ)
+* Algoritmos y estructuras de datos (practica) -> Exposición
+
+### 11-5-2022 Miercoles -> No pude grabar
+
+### 10-5-2022 Martes
+* [Fisica (teoria)](https://youtu.be/B1zsK4lOH1k)
+* [Algebra y geometria analitica (teoria)](https://youtu.be/wtueXDvXvvc)
+* Algoritmos y estructuras de datos (teoria) -> Exposición
+
+### 9-5-2022 Lunes
+* Ing y sociedad (no hubo clases)
+* [AMI (teoria)](https://youtu.be/TnEql5-gBlg)
+* [Arquitectura de computadoras (practica)](https://youtu.be/n59-pc_sjb0)
+* [Taller de AMI](https://youtu.be/UtfbhoRFLug)
+
 ## Semana del 2-5 al 6-5
 ### 6-5-2022 Viernes
 * AMI(practica)-> No grabada
